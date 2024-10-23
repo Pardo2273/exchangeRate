@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 40%;
+    margin: 0 auto;
+    background-color: rgb(172, 165, 201);
+}
+
+h1{
+    color: #eee;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 5rem;
+    text-shadow: 0 6px 6px #111;
+}
+
+.logo img{
+    height: 200px;
+    width:  200px;
+    border-radius: 15%;
+    margin-top: 2%;
+}
+
+.container{
+    background-color: #9c3232;
+    border-radius: 5%;
+    margin: 10px;
+    color: white;
+}
+
+.cuadro div{
+    margin: 20px;
+}
+
+.wait img{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    visibility: hidden;
+}
